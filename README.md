@@ -33,9 +33,3 @@ The data for this project comes from [FiveThirtyEight's GitHub repository](https
 
 ![Distribution of Rating Differences](images/rating_difference_distribution.png)
 *Comparison of Fandango's displayed stars versus actual ratings.*
-
-## How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aysenurdalfidan/fandango-bias-analysis.git
