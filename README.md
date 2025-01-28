@@ -40,9 +40,26 @@ The data for this project comes from [FiveThirtyEight's GitHub repository](https
 ![Count Plot of Rating Differences](images/difference_occurrence_count_plot.png)  
 *Displays the number of occurrences of specific rating differences between displayed stars and actual ratings.*
 
+### Rotten Tomatoes Critics vs User Ratings
+![Rotten Tomatoes Correlation Plot](images/rotten_tomatoes_correlation_plot.png)  
+*Displays the correlation between Rotten Tomatoes Critics' scores and User scores.*
+
+### Distribution of Critics vs User Score Differences
+![Critics vs User Score Differences](images/rt_critics_vs_users_difference_distribution.png)  
+*Visualises the distribution of differences between Rotten Tomatoes Critics and User scores.*
+
+### Distribution of Absolute Differences: RT Critics vs Users
+![Absolute Differences RT Critics vs Users](images/absolute_difference_rt_critics_vs_users.png)  
+*Shows the distribution of absolute differences between Rotten Tomatoes Critics and User scores.*
+
+### Scatterplot: MetaCritic vs IMDb Votes
+![MetaCritic vs IMDb Votes Scatterplot](images/metacritic_vs_imdb_votes_scatterplot.png)  
+*Shows the relationship between MetaCritic user votes and IMDb user votes.*
+
 ### Distribution of Normalized Ratings Across Platforms
 ![Normalized Ratings Distribution](images/normalized_ratings_distribution_comparison.png)  
 *Shows the distribution of normalized ratings (0-5 stars) across platforms, allowing for a fair comparison of rating trends.*
+
 
 ## Observations
 
